@@ -8,9 +8,9 @@ public class StringFun {
   //string method
   public static void main(String[] args) {
     //variable declaration
-    String s;
-    String otherString;
-    String subString;
+    String s = null;
+    String otherString = null;
+    String subString = null;
 
     //error handling
     try {
